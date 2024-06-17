@@ -1,0 +1,32 @@
+body {
+    background-color: #121212;
+    color: white;
+}
+
+header {
+    background-color: #333;
+}
+
+footer {
+    background-color: #333;
+}
+
+.adopcion-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.adopcion-item.block {
+    display: block;
+    margin: 10px 0;
+}
+
+.adopcion-item.inline-block {
+    display: inline-block;
+    margin: 10px 10px 10px 0;
+}
+
+.adopcion-item.inline {
+    display: inline;
+    margin: 10px 10px 10px 0;
+}
